@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>smilekk&#39;s blog</subtitle>
   <link href="http://yzkiss.github.io/atom.xml" rel="self"/>
   
   <link href="http://yzkiss.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://yzkiss.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>胭脂扣</name>
     
   </author>
   
